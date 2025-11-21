@@ -11,8 +11,12 @@
 <br clear="both">
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/muhammad-abu-bakar-1175592ab/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/AbuBakar2006" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="60" height="40" alt="hackerrank logo"  />
+  </a>
   <a href="mailto:mabubakar2006@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
   </a>
