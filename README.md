@@ -2,7 +2,7 @@
 
 <div align="center">  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=156064&center=true&vCenter=true&width=435&lines=I'm+Muhammad+Abu+Bakar;FrontEnd+Web+Developer;CS+Undergrad+%40+UOL;Learning+Python+%26+SQL;Working+%40+Spantik+Capital;Anime+Enthusiast;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=156064&center=true&vCenter=true&width=435&lines=I'm+Muhammad+Abu+Bakar;FrontEnd+Web+Developer;CS+Undergrad+At+UOL;Learning+Python+%26+SQL;Working+At+Spantik+Capital;Anime+Enthusiast;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -54,31 +54,36 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Abubakar2006&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="300"/>
-  <img src="https://streak-stats.demolab.com?user=Abubakar2006&locale=en&mode=weekly&theme=default&hide_border=true&border_radius=10&date_format=M%20j%5B,%20Y%5D&order=3" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=Abubakar2006&locale=en&mode=weekly&theme=default&hide_border=true&border_radius=10&date_format=M%20j%5B,%20Y%5D&order=3" height="300"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abubakar2006&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true&order=2&custom_title=Languages" width="700" height="100"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abubakar2006&radius=0&theme=react&area=true&order=5&hide_border=false&custom_title=CONTRIBUTION%20GRAPH&bg_color=FFFEFE&color=000000&title_color=000000&point=000000&area_color=000000&line=FB8E02" height="350"/>
 </div>
 
 ###
-###
+
 ###
 
 <h2 align="left">✨ Social Media</h2>
-    <a href="https://www.linkedin.com/in/muhammad-abu-bakar-1175592ab/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo" />
-    </a>
-    <a href="https://www.hackerrank.com/profile/AbuBakar2006" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="60" height="40" alt="hackerrank logo" />
-    </a>
-    <a href="mailto:mabubakarasif2006@gmail.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo" />
-    </a>
-    <a href="https://wa.me/923295880225" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo" />
-    </a>
-    <a href="https://gitlab.com/AbuBakar2006" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="60" height="40" alt="gitlab logo" />
-    </a>
-        </td>
-    </tr>
-</table>
+<a href="https://www.linkedin.com/in/muhammad-abu-bakar-1175592ab/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/AbuBakar2006" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="60" height="40" alt="hackerrank logo" />
+</a>
+
+<a href="https://gitlab.com/AbuBakar2006" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="60" height="40" alt="gitlab logo" />
+</a>
+
+<a href="https://www.instagram.com/abubakar_asif.2006/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</a>
+
+<a href="mailto:mabubakarasif2006@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo" />
+</a>
+
+<a href="https://wa.me/923295880225" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo" />
+</a>
