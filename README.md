@@ -1,6 +1,12 @@
 <h1 align="center">Hi There 👋</h1>
 
-###
+<div align="center">  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=156064&center=true&vCenter=true&width=435&lines=I'm+Muhammad+Abu+Bakar;FrontEnd+Web+Developer;CS+Undergrad+%40+UOL;Learning+Python+%26+SQL;Working+%40+Spantik+Capital;Anime+Enthusiast;" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://count.getloli.com/@:Abubakar2006?theme=sketch-1&padding=5&offset=0&scale=2&align=center&pixelated=1&darkmode=0"  />
@@ -10,100 +16,69 @@
 
 <br clear="both">
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-abu-bakar-1175592ab/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/AbuBakar2006" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="60" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="mailto:mabubakar2006@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.me/923295880225" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://gitlab.com/AbuBakar2006" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="60" height="40" alt="gitlab logo"  />
-  </a>
-</div>
+###
+
+<h2 align="left">⚡ Overview </h2>
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
+<p align="left">I'm Muhammad Abu Bakar from Pakistan.<br>I'm a <b>Computer Science Undergraduate</b> at the University of Lahore, currently working at <b>Spantik Capital.</b> I love building automation scripts and working with databases.</p>  
+
+* 🇵🇰 I'm a Computer Science Student based in **Pakistan**.
+* 🎓 Currently studying at **The University of Lahore**.
+* 🐍 Focused on **Python, SQL, and Data Science**.
+* 💼 Working at **Spantik Capital**.
+* 👯 I’m looking to collaborate on **Open Source Projects**
+* 🧩 Hobbies: Coding and watching Anime
 
 ###
 
-<p align="left">I'm Muhammad Abu Bakar from Pakistan<br><br>- 🔭 I’m a CS Undergraduate Student at University of Lahore.<br>- 📚 I'm currently learning Python and SQL<br>- 👨‍💻 I'm currently working at Spantik Capital <br>- ⚡ In my free time I watch Anime</p>
-
-###
-
-<h2 align="left">🛠 Language and tools</h2>
+<h2 align="left">💻 Tech Stack</h2>
 
 ###
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
-</div>
+| Languages | Tools & Hosting | Editors |
+|:---------:|:---------------:|:-------:|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="html5 logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="css logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="javascript logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="python logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="40" alt="cplusplus logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="mysql logo"  /> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="azure logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="git logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="vscode logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" alt="photoshop logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="github logo"  /> |
 
-###
-
-<h2 align="left">My Stats</h2>
-
-###
-
+ 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abubakar2006&radius=16&theme=nord&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
+### 
+
+<h2 align="left">📊 My Githiub Stats</h2>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abubakar2006&locale=en&mode=weekly&theme=default&hide_border=true&border_radius=10&date_format=M%20j%5B,%20Y%5D&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Abubakar2006&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="300"/>
+  <img src="https://streak-stats.demolab.com?user=Abubakar2006&locale=en&mode=weekly&theme=default&hide_border=true&border_radius=10&date_format=M%20j%5B,%20Y%5D&order=3" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abubakar2006&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true&order=2&custom_title=Languages" width="700" height="100"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abubakar2006&radius=0&theme=react&area=true&order=5&hide_border=false&custom_title=CONTRIBUTION%20GRAPH&bg_color=FFFEFE&color=000000&title_color=000000&point=000000&area_color=000000&line=FB8E02" height="350"/>
 </div>
 
 ###
-
-<h2 align="left">Social Media</h2>
-
+###
 ###
 
-<br clear="both">
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/muhammad-abu-bakar-1175592ab/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/AbuBakar2006" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="60" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="mailto:mabubakarasif2006@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.me/923295880225" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://gitlab.com/AbuBakar2006" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="60" height="40" alt="gitlab logo"  />
-  </a>
-</div>
-
-###
+<h2 align="left">✨ Social Media</h2>
+    <a href="https://www.linkedin.com/in/muhammad-abu-bakar-1175592ab/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo" />
+    </a>
+    <a href="https://www.hackerrank.com/profile/AbuBakar2006" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="60" height="40" alt="hackerrank logo" />
+    </a>
+    <a href="mailto:mabubakarasif2006@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo" />
+    </a>
+    <a href="https://wa.me/923295880225" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo" />
+    </a>
+    <a href="https://gitlab.com/AbuBakar2006" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="60" height="40" alt="gitlab logo" />
+    </a>
+        </td>
+    </tr>
+</table>
