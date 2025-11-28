@@ -54,7 +54,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Abubakar2006&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="300"/>
-  <img src="https://streak-stats.demolab.com?user=Abubakar2006&locale=en&mode=weekly&theme=default&hide_border=true&border_radius=10&date_format=M%20j%5B,%20Y%5D&order=3" height="300"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abubakar2006&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true&order=2&custom_title=Languages" width="700" height="100"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abubakar2006&radius=0&theme=react&area=true&order=5&hide_border=false&custom_title=CONTRIBUTION%20GRAPH&bg_color=FFFEFE&color=000000&title_color=000000&point=000000&area_color=000000&line=FB8E02" height="350"/>
 </div>
