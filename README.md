@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <img src="https://count.getloli.com/@:Abubakar2006?theme=sketch-1&padding=5&offset=0&scale=2&align=center&pixelated=1&darkmode=0"  />
+  <img src="https://count.getloli.com/@:Abubakar2006?theme=ai-1&padding=7&scale=1.5&align=center&pixelated=0&darkmode=0"  />
 </div>
 
 ###
