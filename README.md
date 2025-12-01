@@ -63,7 +63,7 @@
 ###
 
 <h2 align="left">✨ Social Media</h2>
-<a href="https://www.linkedin.com/in/muhammad-abu-bakar-1175592ab/" target="_blank">
+<a href="www.linkedin.com/in/muhammad-abu-bakar-asif/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo" />
 </a>
 
