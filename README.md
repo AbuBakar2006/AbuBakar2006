@@ -2,7 +2,7 @@
 
 <div align="center">  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=156064&center=true&vCenter=true&width=435&lines=I'm+Muhammad+Abu+Bakar;FrontEnd+Engineer;CS+Undergrad+@+UOL;Learning+Python+%26+SQL;Working+At+Spantik+Capital;Anime+Enthusiast;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=156064&center=true&vCenter=true&width=435&lines=I'm+Muhammad+Abu+Bakar;Full-Stack+Developer;CS+Undergrad+@+UOL;Learning+System+Designs;Working+At+Spantik+Capital;Anime+Enthusiast;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,11 +22,11 @@
 
 ###
 
-<p align="left">I'm Muhammad Abu Bakar from Pakistan.<br>I'm a <b>Computer Science Undergraduate</b> at the University of Lahore, currently working at <b>Spantik Capital.</b> I love building automation scripts and working with databases.</p>  
+<p align="left">I'm Muhammad Abu Bakar from Pakistan.<br>I'm a <b>Computer Science Undergraduate</b> at the University of Lahore, currently working at <b>Spantik Capital.</b> </p> 
 
 * 🇵🇰 I'm a Computer Science Student based in **Pakistan**.
 * 🎓 Currently studying at **The University of Lahore**.
-* 🐍 Focused on **Python, SQL, and Data Science**.
+* 👨‍💻 Focused on **System Designs**.
 * 💼 Working at **Spantik Capital**.
 * 👯 I’m looking to collaborate on **Open Source Projects**
 * 🧩 Hobbies: Coding and watching Anime
@@ -41,7 +41,7 @@
 
 | Languages | Frameworks & Libraries | Databases | Tools & Hosting | Editors & Platforms |
 |:---------:|:----------------------:|:---------:|:---------------:|:-------------------:|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />     <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /> |
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> <img src="https://skillicons.dev/icons?i=php" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> <img src="https://skillicons.dev/icons?i=c" height="40"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /> |
  
 <br clear="both">
 
@@ -57,9 +57,9 @@
 
 <img src="https://streak-stats.demolab.com?user=Abubakar2006&locale=en&mode=daily&theme=swift&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="400"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abubakar2006&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=15&theme=swift&hide_border=true&order=2&custom_title=Languages" width="1800" height="300"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbuBakar2006&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=15&theme=swift&hide_border=true&order=2&custom_title=Languages" width="1800" height="300"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abubakar2006&radius=0&theme=react&area=true&order=5&hide_border=false&custom_title=CONTRIBUTION%20GRAPH&bg_color=FFFEFE&color=000000&title_color=000000&point=000000&area_color=000000&line=FB8E02" height="1500"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbuBakar2006&radius=0&theme=react&area=true&order=5&hide_border=false&custom_title=CONTRIBUTION%20GRAPH&bg_color=FFFEFE&color=000000&title_color=000000&point=000000&area_color=000000&line=FB8E02" height="1500"/>
 </div>
 
 ###
