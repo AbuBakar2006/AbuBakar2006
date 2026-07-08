@@ -53,11 +53,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbuBakar2006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&order=1" height="350" alt="stats graph"/>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AbuBakar2006&custom_title=Github%20Stats&show_icons=true&card_width=450&hide_border=true&include_all_commits=true&theme=swift)](https://github-stats-extended.vercel.app/api?username=AbuBakar2006&custom_title=Github%20Stats&show_icons=true&card_width=450&hide_border=true&include_all_commits=true&theme=swift)
 
 <img src="https://streak-stats.demolab.com?user=Abubakar2006&locale=en&mode=daily&theme=swift&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="400"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbuBakar2006&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=15&theme=swift&hide_border=true&order=2&custom_title=Languages" width="1800" height="300"/>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AbuBakar2006&layout=compact&card_width=450&hide_border=true&hide_title=false&langs_count=10&theme=swift&custom_title=Languages)](https://github-stats-extended.vercel.app/api/top-langs?username=AbuBakar2006&layout=compact&card_width=450&hide_border=true&hide_title=false&langs_count=10&theme=swift&custom_title=Languages)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbuBakar2006&radius=0&theme=react&area=true&order=5&hide_border=false&custom_title=CONTRIBUTION%20GRAPH&bg_color=FFFEFE&color=000000&title_color=000000&point=000000&area_color=000000&line=FB8E02" height="1500"/>
 </div>
